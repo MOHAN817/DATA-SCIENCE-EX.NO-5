@@ -99,7 +99,8 @@ else:
 ```
 
 ## OUTPUT:
-<img width="1002" height="740" alt="image" src="https://github.com/user-attachments/assets/648e52ea-8080-4d98-878f-8f4f4486e859" />
+<img width="1024" height="756" alt="image" src="https://github.com/user-attachments/assets/6207971f-0f84-4c66-9eef-5e2d18f87ac3" />
+
 
 
 
